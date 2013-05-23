@@ -1,1 +1,1 @@
-rvm use ruby-1.9.3-p327@blog-sse --create
+rvm use ruby-1.9.3-p385@blog-sse --create
