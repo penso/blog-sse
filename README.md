@@ -14,7 +14,9 @@ Events](http://en.wikipedia.org/wiki/Server-sent_events) through a complete
 async Rails stack.
 
 This is explained on a blog post at
-[http://blog.penso.info](http://blog.penso.info).
+[http://blog.penso.info](http://blog.penso.info) and you can see a live
+[jsfiddle](http://jsfiddle.net/fabienpenso/vPXms/4/) (without the SSE
+part).
 
 ### Usage
 
