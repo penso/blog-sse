@@ -1,9 +1,15 @@
-// Place all the styles related to the analytics controller here.
-// They will automatically be included in application.css.
-// You can use Sass (SCSS) here: http://sass-lang.com/
+body {
+  font-family: "Times New Roman",Georgia,Serif;
+}
 #container {
   width: 500px;
   margin: auto;
   height: 300px;
   min-width: 300px;
+}
+#last_received_div {
+  margin: auto;
+  width: 500px;
+  text-align: center;
+  padding-top: 2em;
 }
